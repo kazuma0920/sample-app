@@ -20,7 +20,7 @@ $ git clone https://github.com/sample-874/sample-app.git
 $ bundle install
 ```
 
-その後、データベースへのマイグレーションを実行します。
+その後、データベースへのマイグレーションを実行する。
 
 ```
 $ rails db:migrate
